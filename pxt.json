@@ -1,5 +1,5 @@
 {
-    "name": "MAQUEEN_LINE_FOLLOW",
+    "name": "MAQUEEN_AVOID",
     "description": "",
     "dependencies": {
         "core": "*",
